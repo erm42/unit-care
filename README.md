@@ -1,2 +1,7 @@
-# unit-care
-Take care of your units, and your units will take care of you
+# Welcome to Unit Care!
+
+Turns out, units are important!
+
+Yeah, quantum chemists. Even you need to tell us what your units are.
+
+
