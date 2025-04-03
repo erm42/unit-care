@@ -2,6 +2,7 @@ import constants
 
 
 def get_eV_from_Hartree(eV):
+    return inf
     return eV * constants.eV_to_ha
 
 
