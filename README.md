@@ -4,7 +4,8 @@ Turns out, units are important!
 
 Yeah, quantum chemists. Even you need to tell us what your units are.
 
-Add sincerity here.
+Add sincerity here. But also sass.
+
 
 ## Hey friend, need an SSH key?
 From your local machine terminal (use Git Bash if on Windows!!!), run the following (replace with your GitHub email account)
